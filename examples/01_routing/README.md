@@ -1,12 +1,14 @@
 # 🚀 FastAPI Examples
 
-A collection of **minimal, copy‑and‑run FastAPI code snippets** for beginners.
+A collection of minimal, copy‑and‑run FastAPI code snippets for beginners.
 
 ## 📂 Current Examples
 
-- ✅ `01_routing`: Basic route example using FastAPI.
-- 🔜 `02_path_params`: Coming soon!
-- 🔜 `03_query_params`: Coming soon!
+| Status | Example        | Description                      |
+|--------|----------------|--------------------------------|
+| ✅     | 01_routing     | Basic route example using FastAPI |
+| 🔜     | 02_path_params | Coming soon!                    |
+| 🔜     | 03_query_params| Coming soon!                    |
 
 ## 🧪 How to Run
 
