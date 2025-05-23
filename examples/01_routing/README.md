@@ -1,10 +1,15 @@
-#Routing example
+# 🚀 FastAPI Examples
 
-Run:
-"bash
-Uvicorn main: app --reload
+A collection of **minimal, copy‑and‑run FastAPI code snippets** for beginners.
 
----
-## Support this project 🙏
-If you find these examples helpful, please consider them
-** [Sponsor me] (https://github.com/sponsors/your -github-username) ** to support me in continuously updating and maintaining more FastAPI examples!❤️
+## 📂 Current Examples
+
+- ✅ `01_routing`: Basic route example using FastAPI.
+- 🔜 `02_path_params`: Coming soon!
+- 🔜 `03_query_params`: Coming soon!
+
+## 🧪 How to Run
+
+```bash
+cd examples/01_routing
+uvicorn main:app --reload
